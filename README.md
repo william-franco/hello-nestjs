@@ -9,7 +9,7 @@ Run dev project: npm run dev
 Default port is: 
 
 ```
-localhost:3000
+localhost:7000
 ```
 
 ## Author

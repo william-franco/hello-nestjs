@@ -1,3 +1,8 @@
+## 2.0.0
+
+- Add typescript.
+- Change files to typescript.
+
 ## 1.0.1
 
 - Update packages.
